@@ -1,0 +1,9 @@
+{
+    "semi": false,
+    "formatOnSave": true,
+    "autoFixOnSave": true,
+    "tslintIntegration": true,
+    "singleQuote": true,
+    "printWidth": 160,
+    "tabWidth": 4
+}

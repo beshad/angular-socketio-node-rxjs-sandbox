@@ -16,6 +16,9 @@
     },
     "license": "ISC",
     "dependencies": {
+        "@types/cors": "^2.8.12",
+        "@types/socket.io": "^3.0.2",
+        "cors": "^2.8.5",
         "express": "^4.17.1",
         "module-alias": "^2.2.2",
         "moment": "^2.29.1",
